@@ -722,7 +722,7 @@
     display: none;
   }
   .new-article-images-mobile {
-    display: block;
+    display: block !important;
   }
   .new-article-product-item {
     width: 100%;
